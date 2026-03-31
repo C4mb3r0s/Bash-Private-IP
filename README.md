@@ -61,6 +61,10 @@ ipPrivadaScan/
 
 ## 👤 Autor
 
-<a href="https://github.com/C4mber0s">
-  <img src="https://img.shields.io/badge/GitHub-C4mber0s-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
+
+**Eduardo Camberos**
+
+[![GitHub](https://img.shields.io/badge/GitHub-C4mb3r0s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C4mb3r0s)
+
+</div>
