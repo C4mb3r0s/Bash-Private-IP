@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 
 **Script minimalista en Bash para obtener tu dirección IP privada de forma rápida y con estilo.**
 
@@ -64,8 +63,3 @@ ipPrivadaScan/
 
 **C4mber0s** — [github.com/C4mber0s](https://github.com/C4mber0s)
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
