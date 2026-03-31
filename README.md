@@ -8,6 +8,8 @@
 
 **Script minimalista en Bash para obtener tu dirección IP privada de forma rápida y con estilo.**
 
+</div>
+
 ---
 
 ### 📸 Preview
@@ -60,18 +62,10 @@ ipPrivadaScan/
 
 ## 👤 Autor
 
-<div align="center">
-
-**Eduardo Camberos**
-
-[![GitHub](https://img.shields.io/badge/GitHub-C4mb3r0s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C4mb3r0s)
-
-</div>
+**C4mber0s** — [github.com/C4mber0s](https://github.com/C4mber0s)
 
 ---
 
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
-
-</div>
