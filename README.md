@@ -61,5 +61,6 @@ ipPrivadaScan/
 
 ## 👤 Autor
 
-**C4mber0s** — [github.com/C4mber0s](https://github.com/C4mber0s)
-
+<a href="https://github.com/C4mber0s">
+  <img src="https://img.shields.io/badge/GitHub-C4mber0s-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
